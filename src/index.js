@@ -79,4 +79,3 @@ async function loadImages() {
         console.error(error);
     }
 }
-// asdasd
